@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+.app-content{
+ background-color: #fff;
+  padding: 24px;
+  min-height: 280px;
+}
